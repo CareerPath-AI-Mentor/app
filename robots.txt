@@ -1,0 +1,10 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://careerpath.ai.Mentor/sitemap.xml
+
+# Block access to sensitive areas
+Disallow: /api/
+Disallow: /*.json$

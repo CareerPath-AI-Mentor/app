@@ -1,0 +1,22 @@
+{
+  "name": "CareerPath.AI.Mentor - AI-Powered Career Intelligence",
+  "short_name": "CareerPath.AI.Mentor",
+  "description": "AI-powered career intelligence platform that helps you analyze skill gaps, discover personalized career roadmaps, and accelerate your professional growth.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#9333EA",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "productivity", "education"],
+  "screenshots": [],
+  "lang": "en-US",
+  "dir": "ltr"
+}
